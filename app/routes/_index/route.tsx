@@ -4,7 +4,7 @@ import { resources } from "~/constants";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
+    { title: "New Remix App v2" },
     { name: "description", content: "Welcome to Remix!" },
   ];
 };
